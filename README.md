@@ -66,7 +66,6 @@ Je suis **ouvert aux retours et aux suggestions d’amélioration** :
 * si vous avez des idées d’amélioration
 * si le système n'est pas intuitif
 
-N’hésitez pas à **ouvrir une issue ou proposer des améliorations sur twitter @Slyss42**.
 
 ---
 # Fonctionnement technique de l'auto-focus
