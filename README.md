@@ -6,7 +6,7 @@ Le programme **intègre les fonctionnalités déjà connues** par une grande par
 
 Vidéo de présentation :
 
-[![Vidéo de présentation](https://github.com/Slyss42/Dracoon/blob/fd2ad522809b8398c359805ac353bc745ef0a1d7/miniature-pr%C3%A9sentation.png)](https://youtu.be/6R7pPM_5euM)
+[![Vidéo de présentation](https://github.com/Slyss49/Dracoon-Dofus/blob/main/miniature-pr%C3%A9sentation.png)
 
 ---
 
@@ -31,10 +31,10 @@ Vidéo de présentation :
 
 1. Télécharger la dernière version dans la section **Releases** (à droite sur Github). Vous pouvez téléchargez uniquement le .exe
 2. Lancer le fichier `.exe`.
-3. Activer les notifications sur vos comptes Dofus (option en jeu > général > notification en arrière plan) [screen](https://github.com/Slyss42/Dracoon/blob/46b5f9711967baa45749e804de905726fff89c6a/activer-notification-ig.png)
+3. Activer les notifications sur vos comptes Dofus (option en jeu > général > notification en arrière plan) [screen](https://github.com/Slyss49/Dracoon-Dofus/blob/main/activer-notification-ig.png)
 4. Activer les notifications Windows (Paramètre > Système > Actions et notifications > "activer"
-5. Désactiver "autoriser les notifications à émettre des sons" (ou le faire spécifiquement pour Dofus si vous voulez garder le son pour les autres applications) [screen](https://github.com/Slyss42/Dracoon/blob/7fae9b3246307ed8bc5035d0d623450cbc735c73/activer-notification-windows1.png)
-6. Cliquer sur l'application "Dofus 1" pour désactiver l'affichage des bannières. Vous pouvez donc désactiver le son des notifications de Dofus à cet endroit (si vous préférez avoir le son des autres notifications) [screen](https://github.com/Slyss42/Dracoon/blob/ce4e21739dc6cbe9c16bf4d05bd57da43d9ef453/activer-notification-windows2.png)
+5. Désactiver "autoriser les notifications à émettre des sons" (ou le faire spécifiquement pour Dofus si vous voulez garder le son pour les autres applications) [screen](https://github.com/Slyss49/Dracoon-Dofus/blob/main/activer-notification-windows1.png)
+6. Cliquer sur l'application "Dofus 1" pour désactiver l'affichage des bannières. Vous pouvez donc désactiver le son des notifications de Dofus à cet endroit (si vous préférez avoir le son des autres notifications) [screen](https://github.com/Slyss49/Dracoon-Dofus/blob/main/activer-notification-windows2.png)
  
 ---
 
